@@ -1,0 +1,322 @@
+@media (max-width:1024px){
+
+    .srvise-item {
+        max-width: 1024px !important;
+        margin: auto;
+        text-align: center;
+    }
+    .about-text p {
+        max-width: 500px;
+        margin: auto;
+        line-height: 1.8rem;
+    }
+
+    .header-menu ul {
+        text-align: center;
+        margin-left: 160px;
+    }
+
+    .srvise-box {
+        width: 48%;
+    }
+
+    .srvise-item {
+        max-width: 768px !important;
+    }
+
+    .srvise-box span {;
+        margin-top: 33px;
+    }
+
+    .contact-box {
+        display: inline-block;
+        width: 242px;
+        text-align: center;
+        color: #858585;
+    }
+
+    .contact-form {
+        max-width: 768px;
+        margin: auto;
+    }
+
+
+}
+
+
+@media (max-width:768px){
+
+    
+    .contact-form {
+        max-width: 762px;
+        margin: auto;
+    }
+
+    .header-menu ul li a {
+        font-size: 12px;
+        padding: 20px 7px;
+       
+    }
+
+    .header-menu ul {
+        text-align: center;
+        margin-left: 117px;
+        text-align: center;
+    }
+
+    .header-text h1 {
+
+        font-size: 20px;
+    }
+}
+
+@media (max-width:936px){
+
+    .header-menu ul li a {
+        padding: 27px 6px;
+        font-size: 14px;
+    }
+
+    .header-menu ul li a {
+        padding: 19px 4px;
+        font-size: 14px;
+    }
+
+
+
+}
+
+
+
+
+
+@media (max-width:734px){
+    
+    .header-text {
+        width: 100%;
+        text-align: center;
+    }
+    .header-menu {
+        width: 100%;
+    }
+
+    .header-menu ul li a {
+        font-size: 14px;
+       
+    
+    }
+
+    .header-menu ul {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .baner-text a {
+        padding: 9px 29px;
+        
+    }
+
+    .baner-text p {
+        font-size: 17px;
+    }
+
+    .baner-text h1 {
+        font-size: 39px;
+    }
+
+    .srvise-box {
+        width: 35%;
+    }
+
+    .srvise-box {
+        width: 44%;
+    }
+
+    .srvis-text p {
+        max-width: 500px;
+        margin: auto;
+    }
+}
+
+
+@media (max-width:568px){
+    .srvise-box {
+        width: 35%;
+    }
+
+    .about-img {
+        width: 67%;
+        max-width: 100%;
+        text-align: center;
+        margin-left: 104px;
+    }
+
+    .about-content {
+        width: 48%;
+        margin-left: 105px;
+        margin-top: 28px;
+        float: none;
+    }
+
+    .contact-box {
+        display: inline-block;
+        max-width: 190px;
+        text-align: center;
+        color: #858585;
+    }
+    .contact-box .b {
+        font-size: 11px;
+    }
+
+    .contact-box p {
+        margin-bottom: 5px;
+        font-size: 12px;
+    }
+    .about-img img {
+        height: 100%;
+    }
+}
+
+@media (max-width:780px){
+
+    .contact-form {
+        max-width: 432px;
+        margin: auto;
+    }
+
+    .srvise-box {
+        width: 98%;
+        float: none;
+    }
+
+    .srvise-item {
+        max-width: 432px !important;
+    }
+    .about-text p {
+        max-width: 341px;
+        margin: auto;
+        line-height: 1.8rem;
+    }
+
+    .about-img {
+        width: 79%;
+        max-width: 100%;
+        text-align: center;
+        margin-left: 52px;
+    }
+
+    .about-content {
+        width: 77%;
+        margin-left: 54px;
+        float: none;
+    }
+
+    .about-img img {
+        height: 100%;
+        margin-bottom: 50px;
+    }
+    .contact-box {
+        display: inline-block;
+        max-width: 136px;
+        text-align: center;
+        color: #858585;
+    }
+
+}
+
+
+
+
+@media (max-width:384px){
+    .srvise-box {
+        width: 48%;
+    }
+
+    .about-img img {
+        height: 100%;
+    }
+
+    .about-img img {
+        height: 100%;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    .about-content {
+        width: 91%;
+        max-width: 384px;
+        margin-left: 20px;
+    }
+
+    .about-img img {
+        height: 100%;
+    }
+
+    .srvise-box {
+        width: 100%;
+    }
+
+    .srvise-box {
+        float: none;
+    }
+
+    .srvise-item {
+        max-width: 350px !important;
+    }
+
+    .about-img {
+        width: 90%;
+        max-width: 100%;
+        text-align: center;
+        margin-left: 29px;
+        float: none;
+    }
+
+    .contact-form {
+        max-width: 300px;
+        margin: auto;
+    }
+
+    .contact-box {;
+        margin-left: 50px;
+    }
+
+    .about-img {
+        width: 90%;
+        max-width: 100%;
+        text-align: center;
+        margin-left: 22px;
+        float: none;
+    }
+
+    .contact-box {
+        margin-left: 83px;
+    }
+}
+
+
+
+
+@media (max-width:420px){
+
+    .baner-text a {
+        padding: 7px 15px;
+    }
+    .baner-text p {
+        font-size: 14px;
+    }
+
+    .baner-text h1 {
+        font-size: 30px;
+    }
+
+    .srvis-text p {
+        max-width: 400px !important;
+        margin: auto;
+    }
+
+    .about-text p {
+        font-size: 15px;
+    }
+
+}

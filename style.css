@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.fixed-width {
+    max-width: 1170px;
+    margin: auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.left {
+    float: left;
+}
+
+
+
+.right {
+    float: right;
+}
+
+/* header */
+.header {
+    background: #22c3a3;
+    color: #fff;
+}
+
+.header-text {
+    width: 30%;
+}
+
+.header-text h1 {
+    padding: 20px 0px;
+    margin-left: 34px;
+    cursor: pointer;
+}
+
+.header-menu {
+    width: 70%;
+}
+
+.header-menu ul {
+    text-align: right;
+}
+
+.header-menu ul li {
+    display: inline-block;
+}
+
+.header-menu ul li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 28px 10px;
+    /*! margin-right: -1px; */
+}
+
+
+/* baner-seciton */
+
+.baner-text {
+    background-image: url(./img/header-bg01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0px;
+}
+
+.baner-text h1 {
+    font-size: 55px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.baner-text p {
+    color: White;
+    font-size: 20px;
+    margin-bottom: 43px;
+}
+
+.baner-text a {
+    text-decoration: none;
+    color: white;
+    border: 1px solid;
+    padding: 13px 36px;
+    border-radius: 3px;
+}
+
+/* servise */
+
+.servise {
+    border-bottom: 3px solid #0dbf9b;
+    padding-bottom: 130px;
+}
+
+.srvis-text {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 90px;
+}
+
+.srvis-text h2 {
+    margin-bottom: 20px;
+    color: #555555;
+    font-size: 32px;
+}
+
+.srvis-text p {
+    color: #acacac;
+    font-size: 18px;
+}
+
+.srvise-box {
+    width: 24%;
+}
+
+.srvise-item {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+.srvise-box span {
+    color: #0dbf9b;
+    font-size: 35px;
+    margin-bottom: -1px;
+    /*! padding-bottom: 20px; */
+    display: inline-block;
+}
+
+.srvise-box h3 {
+    margin-top: 20px;
+    font-size: 23px;
+    color: #666666;
+    margin-bottom: 16px;
+}
+
+.srvise-box p {
+    width: 213px;
+    margin: auto;
+    color: #878787;
+    line-height: 23px;
+}
+
+/* Aboutus */
+.about {
+    margin-top: 80px;
+}
+
+.about-text {
+    margin-bottom: 60px;
+}
+
+.about-text h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #555555;
+}
+
+.about-text p {
+    color: #777777;
+    font-size: 18px;
+}
+
+.about-box {
+    padding-bottom: 80px;
+}
+
+.about-img {
+    width: 48%;
+    /*! height: 800px; */
+}
+
+.about-img img {height: 477px;}
+
+.about-content {
+    width: 48%;
+}
+
+.about-content h3 {
+    font-size: 23px;
+    margin-bottom: 20px;
+    color: #a3a3a3;
+}
+
+.about-content p {
+    margin-bottom: 20px;
+    color: #979797;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+/* contact-section */
+
+.contact {
+    background: #f6f6f6;
+    padding: 100px 0px;
+}
+
+.contact-form {
+    width: 1000px;
+    margin: auto;
+}
+
+.contact-box {
+    display: inline-block;
+    width: 329px;
+    text-align: center;
+    color: #858585;
+}
+
+.contact-box .a {
+    color: #0dbf9b;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+.contact-box .aa {
+    color: #0dbf9b;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: 20px;
+}
+
+
+
+.contact-box .b {
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+
+.contact-box p {
+    margin-bottom: 5px;
+}
+
+/* <i class="fab fa-dribbble"></i> */
+
+/* social-menu */
+
+.Social-menu {
+    background: #0dbf9b;
+
+}
+
+.Social-menu ul {
+    text-align: center;
+}
+
+.Social-menu ul li {
+    display: inline-block;
+}
+
+.Social-menu ul li a {
+    display: block;
+    color:white;
+    padding: 22px 0px;
+    margin-right: 25px;
+    font-size: 20px;
+}
+
+/* footer */
+
+.footer {
+    background: #222222;
+    padding: 15px 0px;
+    text-align: center;
+    color: #727272;
+}
